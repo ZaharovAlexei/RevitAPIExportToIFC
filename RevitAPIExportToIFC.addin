@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIExportToIFC.dll"</Assembly>
+		<AddInId>39CBE4A1-26B2-4EB0-87D5-E66D55370F80</AddInId>
+		<FullClassName>RevitAPIExportToIFC.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Экспорт в IFC</Text>
+	</AddIn>
+</RevitAddIns>
